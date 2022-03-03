@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+#title {
+    color: blue;
+    font-family: fantasy;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
