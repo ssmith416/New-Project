@@ -12,3 +12,21 @@ p {
     color: white;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+img {
+    background-color: white;
+}
+
+form {
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+}
+
+#button {
+    background-color: rgb(84, 84, 250);
+    margin-top: 20px;
+    margin-left: 10px;
+    
+}
